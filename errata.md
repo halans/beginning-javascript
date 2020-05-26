@@ -12,6 +12,24 @@ snippets in the book
 
 ***
 
+On **page 5** [Summary of error]:
+I concur. I only made it to page 5.
+That's not how you do a multi line comment.
+*/
+multi line
+comment
+/*
+
+This is:
+/*
+multi line
+comment
+*/
+
+***
+
+***
+
 On **page xx** [Summary of error]:
  
 Details of error here. Highlight key pieces in **bold**.
